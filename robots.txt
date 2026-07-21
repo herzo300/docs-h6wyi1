@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-y9cm2a.doyacedu.com/sitemap.xml
